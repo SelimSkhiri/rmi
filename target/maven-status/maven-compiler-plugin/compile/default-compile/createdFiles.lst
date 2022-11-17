@@ -1,0 +1,5 @@
+com/mycompany/rmiexample/shared/Calc.class
+com/mycompany/rmiexample/serveur/Serveur.class
+com/mycompany/rmiexample/client/Client.class
+com/mycompany/rmiexample/serveur/CalcImpl.class
+com/mycompany/rmiexample/reg/ServeurDeNom.class
